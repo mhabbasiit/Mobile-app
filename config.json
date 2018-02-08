@@ -1,5 +1,5 @@
 {
-    "app_id" : "com.moodle.moodlemobile",
+    "app_id" : "mathhome",
     "appname": "Mathhome",
     "desktopappname": "Mathhome",
     "versioncode" : "2020",
@@ -11,8 +11,8 @@
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "http://pishtazlms.ir",
+    "siteurl": "pishtazlms.ir",
     "skipssoconfirmation": "false",
-    "forcedefaultlanguage": "false",
+    "forcedefaultlanguage": "true",
     "privacypolicy": "https://moodle.org/mod/page/view.php?id=8148"
 }
